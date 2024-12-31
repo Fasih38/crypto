@@ -1,0 +1,16 @@
+Store of value (BTC)
+Smart contracts (ETH, AVAX)
+Exchange tokens (BNB)
+Oracles (LINK)
+Stable coins (USDT)
+Privacy coins (ZCASH)
+Meme coins (DOGE)
+Wrapped token (WBTC, WETH)
+LP tokens(represent a user's share of a liquidity pool)
+----------------------------------------------
+Token standard:
+ERC-20
+ERC-721
+----------------------------------------------
+The blockchain trilemma:
+The blockchain trilemma refers to the challenge of achieving three critical aspects of blockchain technology: security, scalability, and decentralization.
